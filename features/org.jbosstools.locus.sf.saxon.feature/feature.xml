@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jbosstools.locus.sf.saxon.feature"
+      label="sf saxon 9.2.1 feature"
+      version="9.2.1.qualifier"
+      provider-name="%providerName">
+
+   <description url="http://sourceforge.net/projects/saxon">
+      The Saxon XSLT and XQuery processor, developed by Saxonica
+   </description>
+
+   <copyright url="http://www.mozilla.org/MPL/1.0">
+      See notices directory for details.
+   </copyright>
+
+   <license url="http://www.mozilla.org/MPL/1.0">
+      See notices directory for details.
+   </license>
+
+   <plugin
+         id="org.jbosstools.locus.sf.saxon"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

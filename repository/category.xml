@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.jbosstools.apache.poi.feature_2.5.1.qualifier.jar" id="org.jbosstools.apache.poi.feature" version="2.5.1.qualifier">
-      <category name="org.jbosstools.apache"/>
+   <feature url="features/org.jbosstools.locus.apache.poi.feature_2.5.1.qualifier.jar" id="org.jbosstools.locus.apache.poi.feature" version="2.5.1.qualifier">
+      <category name="org.jbosstools.locus.apache"/>
    </feature>
-   <feature url="features/org.jbosstools.jcip.annotations.feature_1.0.0.qualifier.jar" id="org.jbosstools.jcip.annotations.feature" version="1.0.0.qualifier">
-      <category name="org.jbosstools.jcip"/>
+   <feature url="features/org.jbosstools.locus.jcip.annotations.feature_1.0.0.qualifier.jar" id="org.jbosstools.locus.jcip.annotations.feature" version="1.0.0.qualifier">
+      <category name="org.jbosstools.locus.jcip"/>
    </feature>
-   <feature url="features/org.jbosstools.sf.saxon.feature_9.2.1.qualifier.jar" id="org.jbosstools.sf.saxon.feature" version="9.2.1.qualifier">
-      <category name="org.jbosstools.sf.saxon"/>
+   <feature url="features/org.jbosstools.locus.sf.saxon.feature_9.2.1.qualifier.jar" id="org.jbosstools.locus.sf.saxon.feature" version="9.2.1.qualifier">
+      <category name="org.jbosstools.locus.sf.saxon"/>
    </feature>
-   <category-def name="org.jbosstools.apache" label="apache bundles"/>
-   <category-def name="org.jbosstools.jcip" label="jcip bundles"/>
-   <category-def name="org.jbosstools.sf.saxon" label="saxon bundles"/>
+   <category-def name="org.jbosstools.locus.apache" label="apache bundles"/>
+   <category-def name="org.jbosstools.locus.jcip" label="jcip bundles"/>
+   <category-def name="org.jbosstools.locus.sf.saxon" label="saxon bundles"/>
 </site>

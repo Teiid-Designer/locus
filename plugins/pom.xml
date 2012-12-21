@@ -13,9 +13,9 @@
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>org.jbosstools.jcip.annotations</module>
-		<module>org.jbosstools.sf.saxon</module>
-		<module>org.jbosstools.apache.poi</module>
+		<module>org.jbosstools.locus.jcip.annotations</module>
+		<module>org.jbosstools.locus.sf.saxon</module>
+		<module>org.jbosstools.locus.apache.poi</module>
 	</modules>
 </project>
 	

@@ -3,18 +3,17 @@
 	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>org.jboss.tools</groupId>
-		<artifactId>locus</artifactId>
+		<groupId>org.jboss.tools.locus</groupId>
+		<artifactId>plugins</artifactId>
 		<version>0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>org.jboss.tools.locus</groupId>
-	<artifactId>features</artifactId>
-	<name>locus.features</name>
+	<artifactId>locus.jcip.annotations</artifactId>
+	<name>locus.jcip.annotations</name>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>org.jbosstools.locus.apache.poi.feature</module>
-		<module>org.jbosstools.locus.jcip.annotations.feature</module>
-		<module>org.jbosstools.locus.sf.saxon.feature</module>
+		<module>1.0.0</module>
 	</modules>
 </project>
+	
