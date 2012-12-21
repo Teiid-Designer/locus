@@ -1,0 +1,5 @@
+<target name="post.gather.sources" >
+	<mkdir dir="${target.folder}/saxonsrc"/>
+	<unzip src="${target.folder}/saxonhe9-2-1-5j.zip" dest="${target.folder}/saxonsrc" overwrite="false"/>
+	<delete file="${destination.temp.folder}/saxonhe9-2-1-5j.zip" />		
+</target>
