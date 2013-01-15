@@ -7,9 +7,9 @@
 		<artifactId>plugins</artifactId>
 		<version>0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>org.jboss.tools.locus</groupId>
-	<artifactId>locus.apache.poi</artifactId>
-	<name>locus.apache.poi</name>
+	<groupId>org.jboss.tools.locus.plugins</groupId>
+	<artifactId>apache.poi</artifactId>
+	<name>apache.poi</name>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>

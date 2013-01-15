@@ -85,7 +85,7 @@ fi
 # -P <profiles> : The profiles to be used for downloading jbosstools artifacts
 # -D maven.repo.local : Assign the $LOCAL_REPO as the target repository
 #
-MVN_FLAGS="${MVN_FLAGS} -P default,jbosstools-staging-aggregate -Dmaven.repo.local=${LOCAL_REPO}"
+MVN_FLAGS="${MVN_FLAGS} -Dmaven.repo.local=${LOCAL_REPO}"
 
 echo "==============="
 

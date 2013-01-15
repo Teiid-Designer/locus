@@ -7,9 +7,9 @@
 		<artifactId>plugins</artifactId>
 		<version>0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>org.jboss.tools.locus</groupId>
-	<artifactId>locus.jcip.annotations</artifactId>
-	<name>locus.jcip.annotations</name>
+	<groupId>org.jboss.tools.locus.plugins</groupId>
+	<artifactId>jcip.annotations</artifactId>
+	<name>jcip.annotations</name>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
