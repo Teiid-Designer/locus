@@ -16,5 +16,6 @@
 		<module>org.jbosstools.locus.apache.poi.feature</module>
 		<module>org.jbosstools.locus.jcip.annotations.feature</module>
 		<module>org.jbosstools.locus.sf.saxon.feature</module>
+		<module>org.jbosstools.locus.mockito.feature</module>
 	</modules>
 </project>

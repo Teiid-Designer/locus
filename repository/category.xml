@@ -9,7 +9,11 @@
    <feature url="features/org.jbosstools.locus.sf.saxon.feature_9.2.1.qualifier.jar" id="org.jbosstools.locus.sf.saxon.feature" version="9.2.1.qualifier">
       <category name="org.jbosstools.locus.sf.saxon"/>
    </feature>
+   <feature url="features/org.jbosstools.locus.mockito.feature_1.9.5.qualifier.jar" id="org.jbosstools.locus.mockito.feature" version="1.9.5.qualifier">
+      <category name="org.jbosstools.locus.mockito"/>
+   </feature>
    <category-def name="org.jbosstools.locus.apache" label="apache bundles"/>
    <category-def name="org.jbosstools.locus.jcip" label="jcip bundles"/>
    <category-def name="org.jbosstools.locus.sf.saxon" label="saxon bundles"/>
+   <category-def name="org.jbosstools.locus.mockito" label="mockito bundles"/>
 </site>
