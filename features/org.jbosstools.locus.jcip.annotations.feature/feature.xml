@@ -10,11 +10,11 @@
    </description>
 
    <copyright url="http://creativecommons.org">
-      See LICENCE.
+      %license
    </copyright>
 
    <license url="http://creativecommons.org">
-      See LICENCE.
+      %license
    </license>
 
    <plugin

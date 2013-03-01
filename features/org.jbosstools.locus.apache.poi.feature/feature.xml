@@ -6,15 +6,15 @@
       provider-name="%providerName">
 
    <description url="http://poi.apache.org">
-      Provides an eclipse for the apache.poi libraries.
+      Provides an eclipse plugin for the apache.poi libraries.
    </description>
 
    <copyright url="http://poi.apache.org/legal.html">
-      See NOTICE.
+      %notice
    </copyright>
 
    <license url="http://poi.apache.org/legal.html">
-      See LICENCE.
+      %license
    </license>
 
    <plugin

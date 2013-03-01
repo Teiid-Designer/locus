@@ -10,11 +10,11 @@
    </description>
 
    <copyright url="http://opensource.org/licenses/mit-license.php">
-      See NOTICE.
+      %notice
    </copyright>
 
    <license url="http://opensource.org/licenses/mit-license.php">
-      See LICENCE.
+      %license
    </license>
 
    <plugin

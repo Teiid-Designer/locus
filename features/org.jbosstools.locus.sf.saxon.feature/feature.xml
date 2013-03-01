@@ -10,11 +10,11 @@
    </description>
 
    <copyright url="http://www.mozilla.org/MPL/1.0">
-      See notices directory for details.
+      %notice
    </copyright>
 
    <license url="http://www.mozilla.org/MPL/1.0">
-      See notices directory for details.
+      %license
    </license>
 
    <plugin
